@@ -21,7 +21,7 @@ I built a memory game in Python for our case study, complete with a shop, advent
 
  								   The game was developed by:
 
- 							     Jamie Anne A. Banjola (Head Developer)
+ 							     Jamie Anne A. Banjola 
 
  								
  								       YEAR & SECTION:
